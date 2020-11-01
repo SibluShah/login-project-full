@@ -20,3 +20,10 @@ function update($sql){
     global $conn;
     $conn->query($sql);
 }
+function old($input_field_name){
+    if (isset($input_field_name)){
+        if (isset($_POST[$input_field_name])){
+            echo $_POST[$input_field_name];
+        }
+    }
+}

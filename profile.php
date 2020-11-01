@@ -80,7 +80,6 @@ if (isset($_GET['view_id'])) {
 			<div class="card-body profile">
 
                 <img class="shadow-sm" src="photos/students/<?php echo  $all_data['photo'];?>" alt="">
-                <h1></h1>
 
                 <table class="table table-striped">
                     <tr>

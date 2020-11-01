@@ -140,7 +140,6 @@ if (isset($_POST['add'])){
           while ($all_data = $data->fetch_assoc()):
               ?>
 
-
             <div class="card rl-item">
                 <img class="card-img" src="photos/students/<?php echo $all_data['photo'];?>" alt="">
                 <div class="card-body">
@@ -148,6 +147,7 @@ if (isset($_POST['add'])){
                     <a class="btn btn-primary btn-sm" href="?relog_id=<?php echo $all_data['id'];?>">login</a>
                 </div>
             </div>
+
             <?php endwhile; endif;?>
         </div>
 

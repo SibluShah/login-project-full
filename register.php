@@ -70,19 +70,19 @@
 				<form action="" method="post" enctype="multipart/form-data">
 					<div class="form-group">
 						<label for="">Name</label>
-						<input name="name" class="form-control" type="text">
+						<input name="name" class="form-control" value="<?php old('name');?>" type="text">
 					</div>
 					<div class="form-group">
 						<label for="">Email</label>
-						<input name="email" class="form-control" type="text">
+						<input name="email" class="form-control" value="<?php old('email');?>" type="text">
 					</div>
 					<div class="form-group">
 						<label for="">Cell</label>
-						<input name="cell" class="form-control" type="text">
+						<input name="cell" class="form-control" value="<?php old('cell');?>" type="text">
 					</div>
 					<div class="form-group">
 						<label for="">Username</label>
-						<input name="uname" class="form-control" type="text">
+						<input name="uname" class="form-control" value="<?php old('uname');?>" type="text">
 					</div>
                     <div class="form-group">
                         <label for="">Passwor</label>
@@ -102,6 +102,8 @@
 						<input name="add" class="btn btn-primary" type="submit" value="Sign Up">
 					</div>
 				</form>
+                <hr>
+                <a class="btn btn-sm btn-secondary" href="login.php">Go to login page</a>
             </div>
 		</div>
 	</div>
