@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d3adf8e-b4e0-4de6-9caf-67987794fd66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/photos/students/84a91900342e08e6afdd88abdc09c460IMG_0368 - Copy - Copy - Copy - Copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/students/0567796a31c8e256b29456890f793b2c20140910_221710.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/profile.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +119,8 @@
       <workItem from="1604030140033" duration="1233000" />
       <workItem from="1604197753730" duration="1810000" />
       <workItem from="1604200016830" duration="1852000" />
+      <workItem from="1604204518528" duration="288000" />
+      <workItem from="1604204833468" duration="117000" />
     </task>
     <servers />
   </component>
@@ -138,6 +137,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
